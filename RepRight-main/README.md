@@ -1,0 +1,4 @@
+opencv
+mediapipe
+Flask
+VideoProcessor
